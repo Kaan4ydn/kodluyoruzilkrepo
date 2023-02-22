@@ -10,8 +10,8 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 ## Usage
 
-`cd kodluyoruzilkrepo`
-`code .`
+```cd kodluyoruzilkrepo
+code .```
 
 ## Contributing
 
